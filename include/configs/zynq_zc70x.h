@@ -27,9 +27,6 @@
 #define CONFIG_SYS_NO_FLASH
 
 #define CONFIG_ZYNQ_SDHCI0
-#define CONFIG_ZYNQ_SPI
-#define CONFIG_ZYNQ_I2C
-#define CONFIG_ZYNQ_EEPROM
 
 #include <configs/zynq_common.h>
 
